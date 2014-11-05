@@ -1,0 +1,5 @@
+## YAML Template.
+---
+name: MagicBook
+version: 0.1
+main: zanflango.magicbook.MagicBook
